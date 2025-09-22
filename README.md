@@ -1,0 +1,1 @@
+# activation-link-from-getting-mailcow-and-on-reseller-google-sheet-trigger
